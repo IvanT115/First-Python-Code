@@ -1,2 +1,3 @@
-# First-Python-Code
-My first python code.
+full_name = input("What's your name? ")
+
+print(f"Hey, {full_name}!")
